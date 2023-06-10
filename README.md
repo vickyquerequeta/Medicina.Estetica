@@ -10,7 +10,7 @@ En esta página se buscó optimizar toda la actividad actual, historia, servicio
 Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas. En caso de interesarte por el armado de la página puedes
-  - descargar de mi repositorio de GitHub el archivo: https://github.com/vickyquerequeta/medicinaestetica
+  - descargar de mi repositorio de GitHub el archivo: https://github.com/vickyquerequeta/Medicina.Estetica
   - acceso directo al deploy de la misma: 
   - trasladarlo a tu repositorio local
   - empezar a editar, codear y disfrutar!
@@ -28,7 +28,7 @@ Toda la página esta constituida en base a HTML, CSS Y JS 💻. Uso de diferente
   ✅ anclaje con boodstrap para tipologías/márgenes/iconos 
 
 Autores ✒️
-Victoria Querequeta - Trabajo Final - github.com/vickyquerequeta/medicinaestetica
+Victoria Querequeta - Trabajo Final - github.com/vickyquerequeta/Medicina.Estetica
 
 
                             ¡Muchisimas gracias a todos por interesarse en mi trabajo! 🎁 
