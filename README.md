@@ -28,7 +28,7 @@ Toda la página esta constituida en base a HTML, CSS Y JS 💻. Uso de diferente
   ✅ anclaje con boodstrap para tipologías/márgenes/iconos 
 
 Autores ✒️
-Victoria Querequeta - Trabajo Final - github.com/vickyquerequeta/Medicina.Estetica // https://vickyquerequeta.github.io/Medicina.Estetica/
+Victoria Querequeta - Trabajo Final - https://github.com/vickyquerequeta/Medicina.Estetica // https://vickyquerequeta.github.io/Medicina.Estetica/
 
 
                             ¡Muchisimas gracias a todos por interesarse en mi trabajo! 🎁 
